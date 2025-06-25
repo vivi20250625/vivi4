@@ -63,4 +63,4 @@ Telegram频道传送门：汇聚各类热门Telegram频道，涵盖资讯、娱�
 
 黑料大事记，系统梳理娱乐圈与网红界的重要爆料事件。从爆发到发酵，时间线清晰、内容真实，带你轻松回顾每一次舆论风暴，是了解圈内内幕的必备工具。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vivi20250625/vivi4）</span>
